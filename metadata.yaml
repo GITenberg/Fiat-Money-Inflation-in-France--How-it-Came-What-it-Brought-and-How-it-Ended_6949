@@ -1,0 +1,26 @@
+_repo: Fiat-Money-Inflation-in-France--How-it-Came-What-it-Brought-and-How-it-Ended_6949
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, Andrew Dickson
+    birthdate: 1832
+    deathdate: 1918
+    gutenberg_agent_id: '271'
+    url: http://www.gutenberg.org/2009/agents/271
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Dickson_White
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6949'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HG'
+- !lcsh 'Assignats'
+- !lcsh 'Inflation (Finance) -- France -- History'
+- GITenberg
+title: 'Fiat Money Inflation in France: How it Came, What it Brought, and How it Ended'
+url: http://www.gutenberg.org/ebooks/6949
